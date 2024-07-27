@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+Vue的宠物店猫咖管理系统088
+## 基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库+11000字论文)088
 
 ## 一、系统介绍
 
